@@ -1,0 +1,40 @@
+﻿  64 bit Processing .\AESCrypt.idl
+  AESCrypt.idl
+  64 bit Processing D:\Windows Kits\10\Include\10.0.18362.0\um\oaidl.idl
+  oaidl.idl
+  64 bit Processing D:\Windows Kits\10\Include\10.0.18362.0\um\objidl.idl
+  objidl.idl
+  64 bit Processing D:\Windows Kits\10\Include\10.0.18362.0\um\unknwn.idl
+  unknwn.idl
+  64 bit Processing D:\Windows Kits\10\Include\10.0.18362.0\shared\wtypes.idl
+  wtypes.idl
+  64 bit Processing D:\Windows Kits\10\Include\10.0.18362.0\shared\wtypesbase.idl
+  wtypesbase.idl
+  64 bit Processing D:\Windows Kits\10\Include\10.0.18362.0\shared\basetsd.h
+  basetsd.h
+  64 bit Processing D:\Windows Kits\10\Include\10.0.18362.0\shared\guiddef.h
+  guiddef.h
+  64 bit Processing D:\Windows Kits\10\Include\10.0.18362.0\um\ocidl.idl
+  ocidl.idl
+  64 bit Processing D:\Windows Kits\10\Include\10.0.18362.0\um\oleidl.idl
+  oleidl.idl
+  64 bit Processing D:\Windows Kits\10\Include\10.0.18362.0\um\servprov.idl
+  servprov.idl
+  64 bit Processing D:\Windows Kits\10\Include\10.0.18362.0\um\urlmon.idl
+  urlmon.idl
+  64 bit Processing D:\Windows Kits\10\Include\10.0.18362.0\um\msxml.idl
+  msxml.idl
+  64 bit Processing D:\Windows Kits\10\Include\10.0.18362.0\um\oaidl.acf
+  oaidl.acf
+  64 bit Processing D:\Windows Kits\10\Include\10.0.18362.0\um\ocidl.acf
+  ocidl.acf
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  stdafx.cpp
+C:\Users\limingde\Downloads\AESCrypt-master\Windows\AESCrypt\stdafx.h(44,25): error C2039: “basic_string”: 不是“std”的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\list(24): message : 参见“std”的声明
+C:\Users\limingde\Downloads\AESCrypt-master\Windows\AESCrypt\stdafx.h(44,37): error C2065: “basic_string”: 未声明的标识符
+C:\Users\limingde\Downloads\AESCrypt-master\Windows\AESCrypt\stdafx.h(44,38): error C2275: “TCHAR”: 将此类型用作表达式非法
+D:\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(560): message : 参见“TCHAR”的声明
+C:\Users\limingde\Downloads\AESCrypt-master\Windows\AESCrypt\stdafx.h(44,14): error C2974: 'std::list' : 模板 对于 '_Ty'是无效参数，应为类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\list(738): message : 参见“std::list”的声明
+C:\Users\limingde\Downloads\AESCrypt-master\Windows\AESCrypt\stdafx.h(44,43): fatal error C1903: 无法从以前的错误中恢复；正在停止编译

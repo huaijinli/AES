@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=AESCrypt
+Comment=Encrypt or Decrypt a file using AESCrypt
+Exec=@bindir@/aescrypt-gui %f
+Type=Application
+Icon=@iconsdir@/SmallLock.png
+Categories=Application;Utility;TextEditor;
+MimeType=application/octet-stream;

@@ -1,0 +1,9 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  sha256.c
+  password.c
+  getopt.c
+  aescrypt.c
+  aes.c
+  正在生成代码...
+Console.rc(10): fatal error RC1015: cannot open include file 'afxres.h'.
+  
